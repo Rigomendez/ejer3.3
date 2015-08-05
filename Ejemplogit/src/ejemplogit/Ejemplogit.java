@@ -24,7 +24,7 @@ System.out.println (minuto);
     int mint = 45;
     
           
-System.out.println ("Primera linea.");
+System.out.println ("Primer linea.");
 tresLineas ();
 System.out.println ("Segunda linea.");
 nuevaLinea ();
